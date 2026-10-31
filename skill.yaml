@@ -1,0 +1,7 @@
+name: "ai-cooking-master-video"
+title: "AI Cooking Master Video"
+description: "Làm video nấu ăn ASMR 1 chảo (ChefVision AI) theo chuẩn KKHome AI trên nền Workflow Phim v3.2: 5 phase có chốt duyệt (chọn món → chia cảnh → prompt ảnh JSON → prompt video JSON → SEO + thumbnail), đắp thêm Phase 2B viết lời dẫn TIẾNG VIỆT với Voice DNA khóa cứng, Visual DNA Lock (tay + chảo + bàn + ánh sáng), render 9:16 1080p, poster theo File 02 Poster Engine, SEO theo File 03 Revenue Engine, CTA cách điệu bằng chất liệu món ăn ở 3 giây cuối, tuyệt đối không phụ đề, giao bản gốc qua Google Drive."
+category: "Media and creativity"
+version: "1.0"
+created: "2026-10-31"
+include_in_prompt: true
